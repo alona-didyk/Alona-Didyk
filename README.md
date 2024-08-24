@@ -1,7 +1,3 @@
-                                                                            Hi 👋, I'm Alona Didyk
-                                                                             Front-End Developer
-                                                                             
-         
 🌱 I’m currently focused on improving my skills in Redux and exploring new frameworks.
 👯 I’m looking to collaborate on creative projects that push the boundaries of front-end development.
 📝 Check out my recent work on projects like the Courses App and Marvelverse Community!
