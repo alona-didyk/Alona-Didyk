@@ -1,5 +1,6 @@
                                                                             Hi 👋, I'm Alona Didyk
                                                                              Front-End Developer
+                                                                             
          [![Alona Didyk profile views](https://u8views.com/api/v1/github/profiles/125047819/views/day-week-month-total-count.svg)](https://u8views.com/github/alona-didyk)
          
 🌱 I’m currently focused on improving my skills in Redux and exploring new frameworks.
